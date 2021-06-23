@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 10px 0 0;
+}
+
+.save{
+    background-color: #319c00;
+}
+
+.cancel{
+    background-color: #9c0000;
+}
