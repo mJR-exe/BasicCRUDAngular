@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.cancel{
+    background-color: #319c00;
+}
+
+.delete{
+    background-color: #9c0000;
+    margin-right: 10px;
+}
